@@ -1,0 +1,11 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_scan2d_program\dryice_scan2d_program\bin\Debug\dryice_scan2d_program.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_scan2d_program\dryice_scan2d_program\bin\Debug\dryice_scan2d_program.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_scan2d_program\dryice_scan2d_program\bin\Debug\dryice_scan2d_program.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_scan2d_program\dryice_scan2d_program\obj\Debug\dryice_scan2d_program.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_scan2d_program\dryice_scan2d_program\obj\Debug\dryice_scan2d_program.Form1.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_scan2d_program\dryice_scan2d_program\obj\Debug\dryice_scan2d_program.Properties.Resources.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_scan2d_program\dryice_scan2d_program\obj\Debug\dryice_scan2d_program.csproj.GenerateResource.Cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_scan2d_program\dryice_scan2d_program\obj\Debug\dryice_scan2d_program.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_scan2d_program\dryice_scan2d_program\obj\Debug\dryice_scan2d_program.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_scan2d_program\dryice_scan2d_program\obj\Debug\dryice_scan2d_program.Form2.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_scan2d_program\dryice_scan2d_program\obj\Debug\dryice_scan2d_program.Show.resources
